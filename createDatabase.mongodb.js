@@ -1,5 +1,5 @@
 /* NOME DO BANCO DE DADOS */
-const database ='BD3-GEOVANNA-AULA';
+const database ='BD3-JOAO-AULA';
 
 /* NOME DO BANCO DA COEÇÃO DE DADOS */
 const collection ='LIVRARIA';
